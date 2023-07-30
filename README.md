@@ -1,4 +1,4 @@
-# BlackJack-Demo
+# Paint-coloring App
 
 Its a demo for H5 game development using PIXI.JS
 
